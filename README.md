@@ -3,7 +3,7 @@
 ### <p align="center">About Me</p>
 
 <div align="center">
-  hello my name is yana
+  Hello! I'm Anton Bazar, Full Stack Developer.
   
 ### <p align="center">Language and Tools</p>
 <div align="center">
