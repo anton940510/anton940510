@@ -3,7 +3,7 @@
 ### <p align="center">About Me</p>
 
 <div align="center">
-  Hello! I'm Anton Bazar, Full Stack Developer.
+  Hello! I'm Edwin Schirmer, Full Stack Developer.
   
 ### <p align="center">Language and Tools</p>
 <div align="center">
