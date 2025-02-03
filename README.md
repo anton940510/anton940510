@@ -17,7 +17,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="vs logo"  />
 </div>
 
-### <p align="center">Github Stats</p>
-<p align="center">
-   <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritshu&show_icons=true&count_private=true&theme=algolia" />&nbsp;<img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritshu&layout=compact&count_private=true&theme=algolia" alt="Ritshu" />
-</p>
